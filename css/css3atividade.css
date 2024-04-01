@@ -7,7 +7,7 @@ h1{
 h2{
     font-family: serif;
 }
-nav{
+#container{
     font-weight: bold;
 }
 div{
@@ -31,7 +31,5 @@ button{
     color: white;
 }
 footer{
-    border-top: solid;
-    border-top-style: 2px;
-    border-top-color: red;
+    border-top: solid 2px red;
 }
